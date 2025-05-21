@@ -10,3 +10,5 @@ There are 2 tasks as of now.
 6. Assignment 3 Task 2 calculates square root, log and sine of any number n.
 7. Assignment 4 Task 1 reads a file and handles the error if file is not found.
 8. Assignment 4 Task 2 writes input of a user to a file, appends additional input to the file and finally reads the file.
+9. Assignment 5 Task 1 creates dictionary of student marks, takes student as input from user and dispalys their marks.
+10. Assignment 5 Task 2 creates a list of numbers from 1-10, extrcat first five elements and reverses the extracted five elements.
